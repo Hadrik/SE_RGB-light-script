@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEScriptTest", "SEScriptTest\SEScriptTest.csproj", "{89CCB059-F5E3-485A-B471-149B399A2365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89CCB059-F5E3-485A-B471-149B399A2365}.Debug|x64.ActiveCfg = Debug|x64
+		{89CCB059-F5E3-485A-B471-149B399A2365}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E409AE-223F-496C-A060-5E7A3BAE20F8}
+	EndGlobalSection
+EndGlobal
